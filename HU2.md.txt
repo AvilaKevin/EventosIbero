@@ -2,11 +2,12 @@
 
 ## Historia de Usuario 1: Registro de Usuario
 
-**Como** nuevo usuario,  
-**quiero** poder registrarme en la plataforma proporcionando mi nombre, correo electrónico y contraseña,  
-**para** acceder a las funcionalidades de gestión de eventos.
+Como nuevo usuario,  
+quiero poder registrarme en la plataforma proporcionando mi nombre, correo electrónico y contraseña,  
+para acceder a las funcionalidades de gestión de eventos.
 
-**Criterios de aceptación:**
+Criterios de aceptación:
 - El formulario de registro debe incluir campos para nombre, correo electrónico y contraseña.
 - El sistema debe validar que el correo electrónico no esté ya registrado.
 - Tras el registro exitoso, el usuario debe ser redirigido a la página principal o de inicio de sesión.
+
