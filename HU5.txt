@@ -1,0 +1,10 @@
+## Historia de Usuario 2: Creación de Evento
+
+**Como** usuario autenticado,  
+**quiero** poder crear un nuevo evento proporcionando detalles como título, fecha, hora y descripción,  
+**para** compartirlo con otros usuarios interesados.
+
+**Criterios de aceptación:**
+- El formulario de creación de eventos debe incluir campos para título, fecha, hora y descripción.
+- Al enviar el formulario, el evento debe guardarse en la base de datos y estar disponible para su visualización.
+- El sistema debe confirmar la creación exitosa del evento al usuario.
